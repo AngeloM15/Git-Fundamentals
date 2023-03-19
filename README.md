@@ -6,3 +6,5 @@ This file will be used to test the Git commands. Please insert the modifications
 Test 1 hola mundo.
 
 Hola desde la rama de oscar.
+
+Test 2
